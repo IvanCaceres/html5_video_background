@@ -1,0 +1,17 @@
+html {min-height:100%; width:100%;}
+body {width:100%; overflow:hidden; margin:0; padding:0;}
+#video_background { position: absolute; bottom: 0px; right: 0px; min-width: 100%; min-height: 100%; width: auto; height: auto; z-index: -1000; overflow: hidden; }
+
+#main {width:960px;margin-left:auto;margin-right:auto;text-align:center;}
+#video{border-radius:10px; }
+
+h1, h2, h3, h4, h5, p, ul, ol, li {font-family:'Helvetica Neue', Arimo, sans-serif; color:white;}
+
+h1 {
+font-size: 60px;
+color: rgb(255, 255, 255);
+text-shadow: 0 0 5px rgba(207, 200, 200, 0.5);
+line-height:12px;
+}
+
+p {font-size:16px;font-weight:bold;}
